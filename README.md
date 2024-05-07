@@ -1,5 +1,5 @@
 # Jogo da Velha
-
+              
 ### Dependências
 
 Requer que `Python` seja instalado no Windows, no Linux Python já vem pré-instalado. (Não testei no Mac OS)
